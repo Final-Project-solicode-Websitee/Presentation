@@ -66,8 +66,8 @@ style: |
   <img src="images/logo-solicode.png" alt="Logo Right">
 </div>
 
-# **Présentation Fin Foarmation**
-
+# **Présentation de Fin Foarmation**
+### Project QCM 
 **Réalisé par :** <span class="highlight">Ben Taleb Mehdi</span>  
 **Encadré par :** <span class="highlight">M. ESSARRAJ Fouad</span>  
 **Date :** 20 / 02 / 2026
@@ -79,47 +79,59 @@ style: |
 <div class="sommaire-grid">
   <div class="sommaire-item">
     <div class="sommaire-num">1</div>
-    <div class="sommaire-text">Introduction et Contexte</div>
+    <div class="sommaire-text">Contexte de project</div>
   </div>
   <div class="sommaire-item">
     <div class="sommaire-num">2</div>
-    <div class="sommaire-text">Analyse des Besoins</div>
+    <div class="sommaire-text">Methodologie de travail</div>
   </div>
   <div class="sommaire-item">
     <div class="sommaire-num">3</div>
-    <div class="sommaire-text">Conception & Architecture</div>
+    <div class="sommaire-text">Branche Fonctionnelle</div>
   </div>
   <div class="sommaire-item">
     <div class="sommaire-num">4</div>
-    <div class="sommaire-text">Réalisation Technique</div>
+    <div class="sommaire-text">Branch Technique</div>
   </div>
   <div class="sommaire-item">
     <div class="sommaire-num">5</div>
-    <div class="sommaire-text">Démonstration (Live)</div>
+    <div class="sommaire-text">Conception</div>
   </div>
   <div class="sommaire-item">
     <div class="sommaire-num">6</div>
-    <div class="sommaire-text">Conclusion & Perspectives</div>
+    <div class="sommaire-text">Conclusion</div>
   </div>
 </div>
 
 ---
 
-## 1. Introduction & Contexte
+## 1. Contexte de project
 
-Le projet consiste en la création d'une plateforme **Mini E-Commerce** permettant la gestion fluide d'un inventaire.
 
-* **Problématique** : Comment organiser efficacement des produits par catégories ?
-* **Solution** : Une interface CRUD liée à une base de données relationnelle.
 
 ---
 
 
 
-## 3. Conception : Architecture du Système
+## 2. Methodologie de travail
 
-Le développement de l'application repose sur les piliers suivants :
+---
 
-1. **Backend** : Création des APIs robustes pour les Produits et Catégories.
-2. **Frontend** : Interface de gestion dynamique et responsive.
-3. **Relation** : Mise en place d'une liaison **Many-to-One**.
+
+
+## 2. Branche Fonctionnelle
+---
+
+
+
+## 3. Branche Technique
+---
+
+
+
+## 4. Conception
+---
+
+
+
+## 5. Conclusion
