@@ -66,7 +66,7 @@ style: |
   <img src="images/logo-solicode.png" alt="Logo Right">
 </div>
 
-# **Présentation de Fin Foarmation**
+# **Présentation de Fin Formation**
 ### Project QCM 
 **Réalisé par :** <span class="highlight">Ben Taleb Mehdi</span>  
 **Encadré par :** <span class="highlight">M. ESSARRAJ Fouad</span>  
@@ -112,17 +112,12 @@ style: |
 ---
 
 
-
 ## 2. Methodologie de travail
 
 ---
 
-
-
 ## 2. Branche Fonctionnelle
 ---
-
-
 
 ## 3. Branche Technique
 ---
