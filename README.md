@@ -22,7 +22,7 @@ style: |
     left: 60px;
     right: 60px;
   }
-  .logo-header img { height: 100px; margin: 0; }
+  .logo-header img { height: 140px; margin: 0; margin-left:10px; margin-right:10px }
   h1 { color: #088dc7; font-size: 2.8em; margin-top: 100px; text-align: left; }
   h2 { color: #088dc7; font-size: 2em; border-bottom: 2px solid #088dc7; margin-bottom: 40px;}
   h3 { text-align: left; color: #444; margin-top: 0; }
@@ -103,12 +103,12 @@ style: |
   <img src="images/logo-solicode.png" alt="Logo Right">
 </div>
 
-# **Conception et Réalisation d’une Plateforme d’Évaluation Digitale**
-### Projet de Fin de Formation : Système de QCM Interactif
+# **Projet de Fin de Formation**
+### Système de QCM Interactif
 
 **Réalisé par :** <span class="highlight">Solidev 26</span>  
 **Encadré par :** <span class="highlight">M. ESSARRAJ Fouad</span>  
-**Filière :** Développement Mobile (Option Web Full-Stack)
+**Filière :** Développement Mobile et Web
 
 ---
 
@@ -135,7 +135,7 @@ style: |
 
 ---
 
-## 2. Méthodologie : Scrum (Agile)
+## Méthodologie : Scrum (Agile)
 
 
 
@@ -145,7 +145,7 @@ style: |
 
 ---
 
-## 2. Méthodologie : Processus 2TUP
+## Méthodologie : Processus 2TUP
 
 
 
@@ -169,7 +169,7 @@ style: |
 
 ---
 
-## 3. Branche Fonctionnelle : Design Thinking
+## Branche Fonctionnelle : Design Thinking
 ### 2. DÉFINITION
 
 <div class="img-container">
@@ -184,7 +184,7 @@ style: |
 
 ---
 
-## 3. Branche Fonctionnelle : Design Thinking
+## Branche Fonctionnelle : Design Thinking
 ### 3. IDÉATION
 
 <div class="img-container">
@@ -208,7 +208,7 @@ style: |
 </div>
 
 ---
-## 3. Branche Fonctionnelle : Maquettes (UI/UX)
+## Branche Fonctionnelle : Maquettes (UI/UX)
 
 
 
@@ -222,24 +222,31 @@ style: |
 ---
 
 ## 4. Branche Technique : Tech Stack
-
-<div class="tech-container">
-  <span class="badge-simple">Laravel (API)</span>
-  <span class="badge-simple">React.js</span>
-  <span class="badge-simple">MySQL</span>
-  <span class="badge-simple">Tailwind CSS</span>
-  <span class="badge-simple">Git / GitHub</span>
+<div class="sommaire-grid">
+  <div class="dt-card" style="margin-top:0;">
+    <h4>Les technologies à utiliser</h4>
+    <ul>
+      <li><strong>Base de données:</strong> MySQL </li>
+      <li><strong>Framework:</strong> Laravel 12</li>
+      <li><strong>Architecture:</strong> N-Tiers</li>
+      <strong>Controller:</strong> Requêtes HTTP
+      <strong>Service:</strong> Logique métier
+      <strong>Model:</strong> Base de données
+      <li><strong>Architecture:</strong> MVC</li>
+      <li><strong> Blade :</strong>Templates réutilisables (components, layouts).</li>
+    </ul>
+  </div>
+  <div class="dt-card" style="margin-top:0; border-top-color: #27ae60;">
+    <ul>
+      <li><strong> AJAX :</strong> Interactions dynamiques (ex: Modales) sans rechargement de page.</li>
+      <li><strong>Alpine.js :</strong>  Librairie JavaScript pour les interactions dynamiques.</li>
+      <li><strong>Spatie :</strong> Librairie pour la gestion des permissions et rôles.</li>
+      <li><strong>Vite :</strong>   Outil de build rapide.</li>
+      <li><strong>Lucide :</strong> Librairie d'icônes.</li>
+      <li><strong>Tailwind CSS :</strong>Développement rapide, responsive.</li>
+    </ul>
+  </div>
 </div>
-
-
-
-<br>
-
-**Choix technologiques :**
-* **Backend** : Architecture API REST avec Laravel.
-* **Frontend** : Bibliothèque React pour une interface réactive.
-* **Stockage** : Base de données relationnelle MySQL.
-* **Design** : Framework Tailwind CSS pour un rendu épuré.
 
 ---
 
@@ -255,6 +262,29 @@ style: |
 
 ---
 
+## 5. Démonstration : Environnement & Outils
+
+<div class="sommaire-grid">
+  <div class="dt-card" style="margin-top:0;">
+    <h4>Environnement de Développement</h4>
+    <ul>
+      <li><strong>IDE :</strong> VS Code & Antigravity </li>
+      <li><strong>Monitoring DB :</strong> Workbench Sql</li>
+    </ul>
+  </div>
+  <div class="dt-card" style="margin-top:0; border-top-color: #27ae60;">
+    <h4>Gestion & Déploiement</h4>
+    <ul>
+      <li><strong>Modelisation UML :</strong>Mermaid/PlantUML</li>
+      <li><strong>Gestion de version :</strong> Git (GitHub)</li>
+      <li><strong>Navigateur :</strong> Chrome DevTools</li>
+    </ul>
+  </div>
+</div>
+
+<br>
+
+---
 ## 6. Conclusion
 
 - **Objectifs atteints** : Application QCM fonctionnelle et responsive.
