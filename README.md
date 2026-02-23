@@ -166,7 +166,9 @@ style: |
   <div class="dt-card" style="border-top-color: #f39c12;">
     <h4>Comprendre l'utilisateur</h4>
     <blockquote style="font-style: italic; background: white; padding: 15px; border-radius: 8px;">
-      "Observation des difficultés réelles des étudiants lors des examens : stress du temps, erreurs de lecture et attente des résultats."
+      <p>- La formatrice Fatine souhaite un système simple pour créer et gérer des QCM personnalisables, avec correction automatique et affichage du score final.</p>
+      <p>- Le formateur Youssef souhaite un QCM structuré par session et objectif, lié au professeur, avec un calcul automatique des résultats.</p>
+      <p>- L’administrateur Hamouda souhaite une plateforme fiable avec des données validées, un QCM structuré et sécurisé, ainsi qu’une interface simple pour faciliter la gestion des candidats.</p>
     </blockquote>
   </div>
 </div>
