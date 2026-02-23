@@ -166,7 +166,9 @@ style: |
   <div class="dt-card" style="border-top-color: #f39c12;">
     <h4>Comprendre l'utilisateur</h4>
     <blockquote style="font-style: italic; background: white; padding: 15px; border-radius: 8px;">
-      "Observation des difficultés réelles des étudiants lors des examens : stress du temps, erreurs de lecture et attente des résultats."
+      <p>- La formatrice Fatine souhaite un système simple pour créer et gérer des QCM personnalisables, avec correction automatique et affichage du score final.</p>
+      <p>- Le formateur Youssef souhaite un QCM structuré par session et objectif, lié au professeur, avec un calcul automatique des résultats.</p>
+      <p>- L’administrateur Hamouda souhaite une plateforme fiable avec des données validées, un QCM structuré et sécurisé, ainsi qu’une interface simple pour faciliter la gestion des candidats.</p>
     </blockquote>
   </div>
 </div>
@@ -180,9 +182,10 @@ style: |
   <div class="dt-card" style="border-top-color: #f39c12;">
     <h4>Cadrage du problème</h4>
     <blockquote style="font-style: italic; background: white; padding: 15px; border-radius: 8px;">
-      "Comment simplifier l'évaluation tout en offrant un feedback immédiat ?"
+     <p> - Comment pourrions-nous permettre aux formateurs de générer des QCM par objectif en quelques clics, tout en garantissant une correction instantanée pour l'étudiant ? </p>
+      <p>- Comment pourrions-nous structurer l'interface pour que la liaison entre une question, un professeur et un objectif de session soit totalement transparente ? </p>
+      <p>-Comment pourrions-nous concevoir une interface administrateur simple, claire et ergonomique permettant une gestion efficace des candidats et des QCM ? </p>
     </blockquote>
-    <p>Focus sur : L'accessibilité, la rapidité et la fiabilité des données.</p>
   </div>
 </div>
 
